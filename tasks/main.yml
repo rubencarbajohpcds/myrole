@@ -1,0 +1,4 @@
+---
+- name: Task 1 from myrole
+  debug:
+    msg: Hello from myrole
